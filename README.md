@@ -1,4 +1,4 @@
-# [Blog](themysteryx.github.io)
+# [Blog](themysteryx.github.io/blog)
 
 ↑ Articals' Links
 
@@ -11,7 +11,7 @@
 
 This website can make something interesting.
 
-## [Click To Begin](https://themysteryx.github.io/mystery)
+## [Click To Begin](https://themysteryx.github.io/mystery/)
 
 If you reach the 
 **real**
