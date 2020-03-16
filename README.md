@@ -15,8 +15,6 @@ This website can make something interesting.
 
 If you reach the 
 **real**
-end,tell me on Luogu,My ID is 197881.
-
-And you can also Email me on "ZichaoXiang@outlook.com",if you want to show your name(Not necessarily the real name.)
+end,tell me on Luogu,My ID is 197881(if you want to show your name,Not necessarily the real name.)
 
 Enjoy It!
