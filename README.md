@@ -5,13 +5,13 @@
 ------
 # Other
 
-## Welcome to [The Mystery : X](https://themysteryx.github.io/mystery)
+## Welcome to [The Mystery : X](https://themysteryx.github.io/mystery/index)
 
 ## About
 
 This website can make something interesting.
 
-## [Click To Begin](https://themysteryx.github.io/mystery/)
+## [Click To Begin](https://themysteryx.github.io/mystery/index)
 
 If you reach the 
 **real**
