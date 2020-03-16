@@ -1,0 +1,39 @@
+<SCRIPT LANGUAGE="javascript"> alert("Welcome!"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("让我来告诉你一些关于这个网站你必须清楚的事"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("1.答案只会包含小写字母、数字、减号"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("2.格式为:https://themysteryx.github.io/mystery/ANSWER"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("3.大部分时候会有提示(保证以"Hint:"开头)，不过请自行寻找"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("4.你完成后(或遇到问题)可在洛谷私信UserUnknown"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("准备开始吧"); </SCRIPT> 
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	window.onload = function(){
+		var time = 3;
+		var secondEle = document.getElementById("second");
+		var timer = setInterval(function(){
+			secondEle.innerHTML = time;
+			time--;
+			if(time==0){
+				clearInterval(timer);
+				location.href="https://themysteryx.github.io/mystery/level-0";
+			}
+				
+		},1000);
+	}
+</script>
+</head>
+<body>
+  准备开始<span style="color:red" id="second">3</span>秒钟后跳转，如不跳转点击<a href="https://themysteryx.github.io/mystery/level-0">这里</a>!
+</body>
+</html>
