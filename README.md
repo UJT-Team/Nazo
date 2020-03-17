@@ -1,11 +1,4 @@
-# [Blog](themysteryx.github.io/blog)
-
-↑ Articals' Links
-
-------
-# Other
-
-## Welcome to [The Mystery : X](https://themysteryx.github.io/mystery/index)
+# Welcome to [The Mystery : X](https://themysteryx.github.io/mystery/index)
 
 ## About
 
