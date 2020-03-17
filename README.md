@@ -1,10 +1,10 @@
-# Welcome to [The Mystery : X](https://themysteryx.github.io/mystery/index)
+# Welcome to [The Mystery : X](https://themysteryx.github.io/mystery/)
 
 ## About
 
 This website can make something interesting.
 
-## [Click To Begin](https://themysteryx.github.io/mystery/index)
+## [Click To Begin](https://themysteryx.github.io/mystery/)
 
 If you reach the 
 **real**
