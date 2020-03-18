@@ -1,13 +1,15 @@
-# Welcome to [The Mystery](https://themysteryx.github.io/mystery/)
+# [Welcome](https://themysteryx.github.io/mystery/)
 
 ## About
 
-This website can make something interesting.
+有趣?
 
 ## [Click To Begin](https://themysteryx.github.io/mystery/)
 
-If you reach the 
-**real**
-end,tell me on Luogu,My ID is 197881(if you want to show your name,Not necessarily the real name.)
+如果你到达了
+**真正的**
+终点,请在洛谷告诉我,我的ID是197881
 
 Enjoy It!
+
+![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
