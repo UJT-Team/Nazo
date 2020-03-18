@@ -1,4 +1,4 @@
-# Welcome to [The Mystery : X](https://themysteryx.github.io/mystery/)
+# Welcome to [The Mystery](https://themysteryx.github.io/mystery/)
 
 ## About
 
