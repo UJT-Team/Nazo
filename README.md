@@ -2,7 +2,9 @@
 
 ## About
 
-有趣?
+这是一个面向大众的 东西？ (抱歉我不知道怎么表达)
+
+或许它很有趣?
 
 ## [Click To Begin](https://it-is-interesting.github.io/mystery/)
 
@@ -13,3 +15,4 @@
 Enjoy It!
 
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
+
