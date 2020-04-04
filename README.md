@@ -14,7 +14,9 @@
 
 如果你到达了
 **真正的**
-终点,请在洛谷告诉我,我的ID是197881
+终点,请告诉我
+
+[![Gitter](https://badges.gitter.im/it-is-interesting-github-io/community.svg)](https://gitter.im/it-is-interesting-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Enjoy It!
 
