@@ -1,13 +1,22 @@
 ## Welcome!Plz read this first!
+--------
+
 ![上一次更新(可能要刷新一下)](https://img.shields.io/github/last-commit/it-is-interesting/it-is-interesting.github.io.svg)
+![目前版本号(可能要刷新一下)](https://img.shields.io/github/v/release/it-is-interesting/it-is-interesting.github.io.svg)
+![LICENSE(可能要刷新一下)](https://img.shields.io/github/license/it-is-interesting/it-is-interesting.github.io)
+![本网站使用空间大小(可能要刷新一下)](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io?logo=UserUnknown)
+![获得的star数量(可能要刷新一下)](https://img.shields.io/github/stars/it-is-interesting/it-is-interesting.github.io.svg)
+![cdn](https://data.jsdelivr.com/v1/package/gh/it-is-interesting/it-is-interesting.github.io/badge?style=rounded)
+
+欢迎点"View on Github"来个star
 
 -------
 
 ## About
 
-这是一个面向大众的 东西？ (抱歉我不知道怎么表达)
+这是一个面向大众的 "东西？" (抱歉我不知道怎么表达)
 
-或许它很有趣?
+或许它很有趣？
 
 尽可能1~3周至少一更(过久的话证明有重大更新)
 
@@ -35,11 +44,6 @@
 
 [ChatRoom(不要留言,有github账号的建议使用上一个)](https://hack.chat/?it-is-interesting)
 
-![目前版本号(可能要刷新一下)](https://img.shields.io/github/v/release/it-is-interesting/it-is-interesting.github.io.svg)
-
-![本网站使用空间大小(可能要刷新一下)](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io?logo=UserUnknown)
-
-![访问量(?)(可能要刷新一下)](https://data.jsdelivr.com/v1/package/gh/it-is-interesting/it-is-interesting.github.io/badge?style=rounded)
 
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
 
