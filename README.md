@@ -6,6 +6,8 @@
 ![LICENSE(可能要刷新一下)](https://img.shields.io/github/license/it-is-interesting/it-is-interesting.github.io)
 ![本网站使用空间大小(可能要刷新一下)](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io?logo=UserUnknown)
 ![获得的star数量(可能要刷新一下)](https://img.shields.io/github/stars/it-is-interesting/it-is-interesting.github.io.svg)
+![fork的数量(可能要刷新一下)](https://img.shields.io/github/forks/it-is-interesting/it-is-interesting.github.io)
+![contributor的数量(可能要刷新一下)](https://img.shields.io/github/contributors/it-is-interesting/it-is-interesting.github.io)
 ![cdn](https://data.jsdelivr.com/v1/package/gh/it-is-interesting/it-is-interesting.github.io/badge?style=rounded)
 [![Gitter](https://badges.gitter.im/it-is-interesting-github-io/community.svg)](https://gitter.im/it-is-interesting-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
