@@ -26,7 +26,9 @@ Enjoy It!
 
 ## express gratitude:
 
-[Xecades](https://github.com/Xecades)
+- [Xecades](https://github.com/Xecades)
+
+- [bobzzz](https://www.luogu.com.cn/user/336063)
 
 
 -------
