@@ -37,6 +37,8 @@ Enjoy It!
 
 [ChatRoom(不要留言,有github账号的建议使用上一个)](https://hack.chat/?it-is-interesting)
 
+![目前版本号(可能要加载一会儿)](https://img.shields.io/github/v/release/it-is-interesting/it-is-interesting.github.io.svg)
+
 ![本网站使用空间大小(可能要加载一会儿)](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io?logo=UserUnknown)
 
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
