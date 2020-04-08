@@ -18,7 +18,7 @@
 
 [![Gitter](https://badges.gitter.im/it-is-interesting-github-io/community.svg)](https://gitter.im/it-is-interesting-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-当然也欢迎贡献您的想法(建议洛谷私信UserUnknown,对于被采纳的想法可自由选择是否留名)
+当然也欢迎贡献您的想法(对于被采纳的想法可自由选择是否留名)
 
 Enjoy It!
 
@@ -37,7 +37,7 @@ Enjoy It!
 
 [ChatRoom(不要留言,有github账号的建议使用上一个)](https://hack.chat/?it-is-interesting)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io?logo=UserUnknown)
 
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
 
