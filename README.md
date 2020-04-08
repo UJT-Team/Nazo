@@ -39,6 +39,8 @@
 
 ![本网站使用空间大小(可能要刷新一下)](https://img.shields.io/github/repo-size/it-is-interesting/it-is-interesting.github.io?logo=UserUnknown)
 
+![访问量(?)(可能要刷新一下)](https://data.jsdelivr.com/v1/package/gh/it-is-interesting/it-is-interesting.github.io/badge?style=rounded)
+
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
 
 --------
