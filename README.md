@@ -28,7 +28,7 @@ Enjoy It!
 
 - [Xecades](https://github.com/Xecades)
 
-- [bobzzz](https://www.luogu.com.cn/user/336063)
+- [bobzzz](https://github.com/0bobzzz)
 
 
 -------
