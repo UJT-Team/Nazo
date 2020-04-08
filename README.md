@@ -1,4 +1,4 @@
-# [Welcome](https://it-is-interesting.github.io/mystery/)
+## [Welcome](https://it-is-interesting.github.io/mystery/)
 
 -------
 
@@ -9,8 +9,6 @@
 或许它很有趣?
 
 -------
-
-## [Click To Begin](https://it-is-interesting.github.io/mystery/)
 
 如果您到达了
 **真正的**
@@ -39,3 +37,8 @@ Enjoy It!
 
 [ChatRoom(不要留言,有github账号的建议使用上一个)](https://hack.chat/?it-is-interesting)
 
+--------
+
+## [Click To Begin](https://it-is-interesting.github.io/mystery/)
+
+Enjoy It!
