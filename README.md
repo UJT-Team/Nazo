@@ -1,5 +1,7 @@
 ## [Welcome](https://it-is-interesting.github.io/mystery/)
 
+![上一次更新(可能要加载一会儿)](https://img.shields.io/github/last-commit/it-is-interesting/it-is-interesting.github.io.svg)
+
 -------
 
 ## About
