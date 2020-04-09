@@ -48,17 +48,13 @@
 
 如果您到达了
 **真正的**
-终点,请告诉我
-
-[![Gitter](https://badges.gitter.im/it-is-interesting-github-io/community.svg)](https://gitter.im/it-is-interesting-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+终点,请告诉我。
 
 当然也欢迎贡献您的想法(对于被采纳的想法可自由选择是否留名)
 
 -------
 
 [![Gitter](https://badges.gitter.im/it-is-interesting-github-io/community.svg)](https://gitter.im/it-is-interesting-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-[ChatRoom(不要留言,有github账号的建议使用上一个)](https://hack.chat/?it-is-interesting)
 
 访问量统计: 
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
