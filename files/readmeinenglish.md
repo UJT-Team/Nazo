@@ -47,7 +47,7 @@ If you reach the **real** end, please tell me
 [ChatRoom (Don't leave a message, there's a github account suggested to use the previous one)](https://hack.chat/?it-is-interesting)
 
 Hitcounts: 
-![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
+![](https://www.cutercounter.com/hits.php?id=huxxdkqd&nd=9&style=1)
 
 --------
 
