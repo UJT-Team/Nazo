@@ -1,4 +1,7 @@
 ## Welcome!Plz read this first!
+
+[read in English]()
+
 --------
 
 ![上一次更新(可能要刷新一下)](https://img.shields.io/github/last-commit/it-is-interesting/it-is-interesting.github.io.svg)
@@ -27,7 +30,7 @@
 
 尽可能1~3周至少一更(过久的话证明有重大更新)
 
-### Express Contributors
+### Other Contributors
 
 #### Github Profiles
 
