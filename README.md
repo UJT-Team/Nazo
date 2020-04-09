@@ -57,7 +57,7 @@
 [![Gitter](https://badges.gitter.im/it-is-interesting-github-io/community.svg)](https://gitter.im/it-is-interesting-github-io/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 访问量统计: 
-![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
+![](https://www.cutercounter.com/hits.php?id=huxxdkqd&nd=9&style=1)
 
 --------
 
