@@ -15,7 +15,7 @@
 
 欢迎点"View on Github"来个star
 
-*Last-commit 使用不是中国时间
+*Last-commit 使用的不是中国时间
 
 -------
 
