@@ -29,11 +29,17 @@
 
 ### Express Contributors
 
-- [Xecades](https://github.com/Xecades)
+#### Github Profiles
 
-- [bobzzz](https://github.com/0bobzzz)
+- [![](https://avatars0.githubusercontent.com/u/33767256?s=460&u=3df752f065aeb97d342016bf6433bb3bc5f29d3e&v=4)](https://github.com/Xecades)
 
-- [此用户无昵称](https://www.luogu.com.cn/user/305379)
+- [![](https://avatars3.githubusercontent.com/u/50734786?s=400&v=4)](https://github.com/0bobzzz)
+
+- [![](https://avatars3.githubusercontent.com/u/63380578?s=400&v=4)](https://github.com/carrot-king07)
+
+#### Luogu Profiles
+
+- [![](https://cdn.luogu.com.cn/upload/usericon/305379.png)](https://www.luogu.com.cn/user/305379)
 
 -------
 
