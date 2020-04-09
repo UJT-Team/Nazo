@@ -1,6 +1,6 @@
 ## Welcome!Plz read this first!
 
-[read in English]()
+[read in English](https://github.com/it-is-interesting/it-is-interesting.github.io/blob/master/files/readmeinenglish.md)
 
 --------
 
