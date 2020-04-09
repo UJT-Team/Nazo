@@ -60,7 +60,7 @@
 
 [ChatRoom(不要留言,有github账号的建议使用上一个)](https://hack.chat/?it-is-interesting)
 
-访问量：
+访问量统计: 
 ![](https://www.hit-counts.com/counter.php?t=MTQ0NjY1MA)
 
 --------
