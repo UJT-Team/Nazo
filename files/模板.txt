@@ -1,0 +1,22 @@
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66542987" charset="UTF-8"></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
+<style>
+
+.font_bk{border:1px solid #ccc;}
+
+</style>
+
+
+<span class="font_bk"></span>
+
+<SCRIPT LANGUAGE="javascript"> alert(""); </SCRIPT> 
+
+<a href=""></a>
+
+<font color="#FFFFFF"></font> 
+
+<head>  
+    <meta http-equiv="refresh" content="0;url=https://it-is-interesting.github.io/mystery/coming">   
+</head>
