@@ -1,22 +1,27 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>qwqvqaquqnq</title>
-        <script  src="http://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
-    </head>
-     
-    <body>
-        <input type="password" name="pw" id="pw" placeholder="恭喜你找到了这里"/>
-        <button id='sub'> submit</button>
-    </body>
-    <script>$('#sub').on('click', (function() {
-    var val = $('#pw').val()
-    if(val == '三') {
-        alert('你是对的')
-    } else {
-        alert('再试一次吧')
-    }
-}))
-    </script>
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <script type="text/javascript">
+	function checkUser(){
+		var username=document.getElementById("uname");
+		var username=document.getElementById("uname");
+		if(uname.value=="3" && upwd.value==2643006474291){
+				location.href="http://www.baidu.com";
+		}else{
+			alert("权限不足");
+		}
+	}
+  </script>
+  name:<input type="text" id="uname" name="uname"/><br/>
+  password:<input type="password" id="upwd" name="upwd"/><br/>
+  <input type="button" id="btnSubmit" οnclick="checkUser()" value="submit"/>
+ </body>
 </html>
