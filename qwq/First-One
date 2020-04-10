@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>qwqvqaquqnq</title>
+        <script  src="http://libs.baidu.com/jquery/1.7.2/jquery.min.js"></script>
+    </head>
+     
+    <body>
+        <input type="password" name="password" id="password" placeholder="你爱我么"/>
+        <button id='sub'> submit</button>
+    </body>
+    <script>$('#sub').on('click', (function() {
+    var val = $('#password').val()
+    if(val == '3') {
+        alert('Sorry!')
+        alert('You are right!')
+    } else {
+        alert('Good Job!')
+        alert('You are wrong')
+    }
+}))
+    </script>
+</html>
