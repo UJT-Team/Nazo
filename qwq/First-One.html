@@ -7,16 +7,14 @@
     </head>
      
     <body>
-        <input type="password" name="password" id="password" placeholder="恭喜你找到了这里"/>
+        <input type="password" name="pw" id="pw" placeholder="恭喜你找到了这里"/>
         <button id='sub'> submit</button>
     </body>
     <script>$('#sub').on('click', (function() {
-    var val = $('#password').val()
+    var val = $('#pw').val()
     if(val == '3') {
-        alert('Sorry!')
         alert('You are right!')
     } else {
-        alert('Good Job!')
         alert('You are wrong')
     }
 }))
