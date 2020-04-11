@@ -1,0 +1,40 @@
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=66542987" charset="UTF-8"></script>
+
+<SCRIPT LANGUAGE="javascript"> alert("Welcome!"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("让我来告诉你一些关于这个网站你必须清楚的事"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("格式为:https://it-is-interesting.github.io/mystery/ANSWER"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("有的时候会有两种选择，且难度逐渐增加"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("部分时候会有提示(不保证以"Hint:"开头)，不过请自行寻找"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("你完成后(或遇到问题、语义不明)可在洛谷私信UserUnknown,且请自行记住进行到的网址"); </SCRIPT> 
+
+<SCRIPT LANGUAGE="javascript"> alert("UI不好看，因为我很弱"); </SCRIPT> 
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	window.onload = function(){
+		var time = 3;
+		var secondEle = document.getElementById("second");
+		var timer = setInterval(function(){
+			secondEle.innerHTML = time;
+			time--;
+			if(time==0){
+				clearInterval(timer);
+				location.href="https://it-is-interesting.github.io/";
+			}
+		},1000);
+	}
+</script>
+</head>
+<body>
+  <center><span style="color:blue" id="second">3</span>秒钟后回到主页，或点击<a href="https://it-is-interesting.github.io/">这里</a>!</center>
+</body>
+</html>
