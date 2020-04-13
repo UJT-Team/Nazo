@@ -1,0 +1,96 @@
+Remember:1.如果您进入下一关后出现405界面，请尝试复制并在新标签页中打开。
+2.为了避免不必要的损失，请不要尝试通过F12等方式查看答案！
+3.您只能使用鼠标左键。
+<head>
+<title>qwqaqnqvquq</title>
+
+  <script>
+function r()
+{
+var username=document.getElementById("username");
+var pass=document.getElementById("password");
+if(username.value=="")
+{
+alert("Input Username");
+username.focus();
+return ;
+}
+else if(pass.value=="")
+{
+alert("Input Password");
+return;
+}
+else if((pass.value=="2643006474291")&&(username.value=="3"))
+{
+frm.submit();
+}
+else
+{
+alert("Wrong Answer!");
+return;
+}
+return true;
+}
+</script>
+</head>
+<script type='text/javascript'> 
+    //禁用右键（防止右键查看源代码） 
+    window.oncontextmenu=function(){return false;} 
+    //禁止任何键盘敲击事件（防止F12和shift+ctrl+i调起开发者工具） 
+    window.onkeydown = window.onkeyup = window.onkeypress = function () { 
+    window.event.returnValue = false; 
+        return false; 
+    } 
+    //如果用户在工具栏调起开发者工具，那么判断浏览器的可视高度和可视宽度是否有改变，如有改变则关闭本页面 
+    var h = window.innerHeight,w=window.innerWidth; 
+    window.onresize = function () { 
+        if (h!= window.innerHeight||w!=window.innerWidth){ 
+            window.close(); 
+            window.location = "about:blank"; 
+        } 
+    } 
+</script> 
+<body>
+<form name="frm" action="https://it-is-interesting.github.io/mystery/Well-Done" method="post">
+<table >
+<tr align=center>
+<td>Username:</td><td><input type="text" name="username" id="username"></td>
+</tr>
+<tr align=center><td>Password:</td><td><input type="password" name="password" id="password"></td></tr>
+<tr align=center><td colspan="2"><input type="button" value="Submit" onclick="r();"/>
+<input type="reset" value="Reset"/></td></tr>
+</table>
+</form>
+</body>
+</html>
+<script type="text/javascript">
+function doit() {
+window.close(); 
+window.location = "about:blank";
+}
+ 
+function ck() {
+console.profile();
+console.profileEnd();
+if(console.clear) {
+console.clear()
+};
+if(typeof console.profiles == "object") {
+return console.profiles.length > 0;
+}
+}
+ 
+function hehe() {
+if((window.console && (console.firebug || console.table && /firebug/i.test(console.table()))) || (typeof opera == 'object' && typeof opera.postError == 'function' && console.profile.length > 0)) {
+doit();
+}
+if(typeof console.profiles == "object" && console.profiles.length > 0) {
+doit();
+}
+}
+hehe();
+window.onresize = function() {
+if((window.outerHeight - window.innerHeight) > 200)
+doit();
+}
+</script>
