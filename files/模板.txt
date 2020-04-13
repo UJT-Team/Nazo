@@ -21,3 +21,7 @@
 
 <div class="title"></div>
 				<div class="title"><a href=”#” onClick=”javascript :history.back(-1);”>Go back to the previous page</a></div>
+
+<head>  
+    <meta http-equiv="refresh" content="3;url=https://it-is-interesting.github.io/mystery/coming">   
+</head>
