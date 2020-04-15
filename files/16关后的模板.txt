@@ -50,5 +50,5 @@
 </html>
 
 <head>  
-    <meta http-equiv="refresh" content="1;url=https://it-is-interesting.github.io/mystery/coming">   
+    <meta http-equiv="refresh" content="1;url=https://UserUnknownX.github.io/MyNazo/mystery/coming">   
 </head>
